@@ -1,3 +1,3 @@
-License information
+License information. I know nothing about remote repo changes.
 staged changes
 unstaged stuff
